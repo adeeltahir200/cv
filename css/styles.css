@@ -1,0 +1,131 @@
+body{
+  margin: 0 0 0 0;
+}
+h1{
+  font-family: 'Dancing Script', cursive;
+  font-size: 500%;
+  margin-top: 0;
+  padding-top: 100px;
+  color: #66BFBF;
+}
+h3{
+  font-family: 'Dancing Script', cursive;
+font-family: 'Raleway', sans-serif;
+  margin: 0 0 0 0;
+  font-size: 200%;
+  color: #66BFBF;
+}
+
+.top{
+  text-align: center;
+  position: relative;
+  background-color: #EAF6F6;
+  margin: 0 0 0 0;
+}
+.topcloud{
+  position: absolute;
+  top: 50px;
+  right: 20%;
+}
+.bottomcloud{
+  position: absolute;
+  top: 300px;
+  left: 20%;
+}
+.mountain{
+  margin-top: 50px;
+}
+.middle-container{
+  margin-top: 50px;
+  margin-left: 25%;
+  width: 50%;
+}
+.profile{
+  text-align: center;
+}
+.hello{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 250%;
+  color: #66BFBF;
+}
+.para{
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+}
+.webskill{
+  height: 150px;
+  width: 150px;
+  float: left;
+}
+.skill-row{
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+}
+#webtitle{
+  font-size: 25px;
+}
+.webinfo{
+  padding-left: 30%;
+}
+.androidskill{
+  height: 150px;
+  width: 150px;
+  float: right;
+}
+#androidtitle{
+  font-size: 25px;
+  margin-top: 50px;
+}
+.contact-me{
+  text-align: center;
+}
+.hire{
+  font-size: 25px;
+  text-align: center;
+}
+.hireinfo{
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+}
+.btn{
+  margin-top: 50px;
+}
+.butn {
+  margin-top: 50px;
+  background: #3498db;
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.butn:hover {
+  background: #3cb0fd;
+  text-decoration: none;
+}
+.bottom-container{
+  height: 150px;
+  background-color: #66BFBF;
+  margin-top: 100px;
+  text-align: center;
+}
+.footer-link{
+ font-family: 'Montserrat', sans-serif;
+ margin: 10px 5px 5px 5px;
+ color: #3498db;
+ text-decoration: none;
+}
+.footer-link:hover{
+  color: #EAF6F6
+}
+.end{
+  margin-top: 50px;
+  text-decoration: none;
+  color: #EAF6F6;
+}
